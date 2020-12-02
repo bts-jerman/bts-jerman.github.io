@@ -271,6 +271,11 @@ footer {
       width: 30px;
       height: 30px;
     }
+
+    .headimg {
+      width: 350px; 
+      height:200px;
+    }
 }
 
 
@@ -750,6 +755,11 @@ footer {
     height: 15px;
   }
 
+  .headimg {
+    width: 300px; 
+    height:150px;
+  }
+
   #intro { height: 65vh; }
 
   #video iframe {
@@ -781,6 +791,11 @@ footer {
   .logo-short {
     width: 15px;
     height: 15px;
+  }
+
+  .headimg {
+    width: 300px; 
+    height:150px;
   }
 
   #overview img,
@@ -825,6 +840,11 @@ footer {
   .logo-short {
     width: 15px;
     height: 15px;
+  }
+
+  .headimg {
+    width: 300px; 
+    height:150px;
   }
 
 }
