@@ -769,7 +769,14 @@ footer {
   #contact .contact_detail {
   background: #ffffff;
   padding: 10rem 3rem 10rem 5rem;
-}
+  }
+
+  .go-top {
+    font-size: 15px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+  }
 
 }
 
@@ -820,6 +827,13 @@ footer {
     margin-top: 82px;
   }
 
+  .go-top {
+    font-size: 15px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+  }
+
 }
 
 @media (max-width: 760px) {
@@ -845,6 +859,13 @@ footer {
   .headimg {
     width: 300px; 
     height:150px;
+  }
+
+  .go-top {
+    font-size: 15px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
   }
 
 }
